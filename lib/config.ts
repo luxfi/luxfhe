@@ -64,7 +64,7 @@ export const config = {
       },
     ],
     copyright: {
-      text: 'Lux Partners Ltd.',
+      text: 'Lux Industries Inc',
       badge: 'FHE Research',
     },
   },
